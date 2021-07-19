@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="ja">
+<channel rdf:about="https://www.soumu.go.jp/news.rdf">
+<title>総務省 ホームページ新着情報</title>
+<link>https://www.soumu.go.jp/</link>
+<description>総務省 ホームページ新着情報</description>
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000238.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/main_sosiki/kenkyu/ict_anshin/02kiban08_04000392.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/main_sosiki/hunso/info/02shingi02_04000181.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000820.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000124.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/main_sosiki/kenkyu/housou_kadai/02ryutsu08_04000453.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01ryutsu12_02000159.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01ryutsu12_02000158.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_syokai/saiyou/jsougou_setumei_index2.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001046.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000235.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01gyosei03_02000068.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01gyosei09_02000097.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00118.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02kiban03_04000724.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000296.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000123.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000819.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000332.html" />
+<rdf:li rdf:resource="https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000333.html" />
+</rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000238.html">
+<title>総務省自治行政局における新型コロナウイルス感染症の感染者の発生</title>
+<description>総務省自治行政局における新型コロナウイルス感染症の感染者の発生</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000238.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/main_sosiki/kenkyu/ict_anshin/02kiban08_04000392.html">
+<title>青少年の安心・安全なインターネット利用環境整備に関するタスクフォース（第15回）</title>
+<description>青少年の安心・安全なインターネット利用環境整備に関するタスクフォース（第15回）</description>
+<link>https://www.soumu.go.jp/main_sosiki/kenkyu/ict_anshin/02kiban08_04000392.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/main_sosiki/hunso/info/02shingi02_04000181.html">
+<title>電気通信紛争処理委員会（第213回）の開催について</title>
+<description>電気通信紛争処理委員会（第213回）の開催について</description>
+<link>https://www.soumu.go.jp/main_sosiki/hunso/info/02shingi02_04000181.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000820.html">
+<title>令和3年7月19日付　総務省人事</title>
+<description>令和3年7月19日付　総務省人事</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000820.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000124.html">
+<title>「DX時代における企業のプライバシーガバナンスガイドブックver1.1」を策定しました</title>
+<description>「DX時代における企業のプライバシーガバナンスガイドブックver1.1」を策定しました</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000124.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/main_sosiki/kenkyu/housou_kadai/02ryutsu08_04000453.html">
+<title>V-Low帯域の防災利用に関するワーキンググループ（第2回）　開催案内</title>
+<description>V-Low帯域の防災利用に関するワーキンググループ（第2回）　開催案内</description>
+<link>https://www.soumu.go.jp/main_sosiki/kenkyu/housou_kadai/02ryutsu08_04000453.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01ryutsu12_02000159.html">
+<title>「地域ケーブルテレビネットワーク整備事業」に係る補助金の交付決定</title>
+<description>「地域ケーブルテレビネットワーク整備事業」に係る補助金の交付決定</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01ryutsu12_02000159.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01ryutsu12_02000158.html">
+<title>「『新たな日常』の定着に向けたケーブルテレビ光化による耐災害性強化事業」に係る補助金の交付決定</title>
+<description>「『新たな日常』の定着に向けたケーブルテレビ光化による耐災害性強化事業」に係る補助金の交付決定</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01ryutsu12_02000158.html</link>
+<dc:date>2021-07-19T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_syokai/saiyou/jsougou_setumei_index2.html">
+<title>総合職事務系説明会の情報を更新しました。</title>
+<description>総合職事務系説明会の情報を更新しました。</description>
+<link>https://www.soumu.go.jp/menu_syokai/saiyou/jsougou_setumei_index2.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001046.html">
+<title>武田総務大臣閣議後記者会見の概要</title>
+<description>武田総務大臣閣議後記者会見の概要</description>
+<link>https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001046.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000235.html">
+<title>総務省自治行政局における新型コロナウイルス感染症の感染者の発生</title>
+<description>総務省自治行政局における新型コロナウイルス感染症の感染者の発生</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000235.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01gyosei03_02000068.html">
+<title>｢地方自治法施行規則の一部を改正する省令案｣に対する意見募集</title>
+<description>｢地方自治法施行規則の一部を改正する省令案｣に対する意見募集</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01gyosei03_02000068.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01gyosei09_02000097.html">
+<title>令和3年度特定地域づくり事業推進交付金の交付決定（第3回）</title>
+<description>令和3年度特定地域づくり事業推進交付金の交付決定（第3回）</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01gyosei09_02000097.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00118.html">
+<title>「クラウドサービス提供における情報セキュリティ対策ガイドライン（第3版）」（案）に対する意見募集</title>
+<description>「クラウドサービス提供における情報セキュリティ対策ガイドライン（第3版）」（案）に対する意見募集</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00118.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02kiban03_04000724.html">
+<title>情報通信行政・郵政行政審議会　電気通信事業部会　接続委員会（第57回）</title>
+<description>情報通信行政・郵政行政審議会　電気通信事業部会　接続委員会（第57回）</description>
+<link>https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02kiban03_04000724.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000296.html">
+<title>令和2年度地方税収入決算見込額</title>
+<description>令和2年度地方税収入決算見込額</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000296.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000123.html">
+<title>プラットフォームサービスに関する研究会　中間とりまとめ（案）についての意見募集</title>
+<description>プラットフォームサービスに関する研究会　中間とりまとめ（案）についての意見募集</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000123.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000819.html">
+<title>令和3年度「総務省テレワーク・デイズ」の実施</title>
+<description>令和3年度「総務省テレワーク・デイズ」の実施</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02000819.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000332.html">
+<title>Beyond 5G研究開発促進事業に係る提案の公募</title>
+<description>Beyond 5G研究開発促進事業に係る提案の公募</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000332.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+<item rdf:about="https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000333.html">
+<title>「行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令案」に対する意見募集</title>
+<description>「行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令案」に対する意見募集</description>
+<link>https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000333.html</link>
+<dc:date>2021-07-16T05:00:00+09:00</dc:date>
+<dc:subject>新着情報</dc:subject>
+<dc:creator>総務省</dc:creator>
+<dc:publisher>総務省</dc:publisher>
+<dc:rights>総務省</dc:rights>
+</item>
+</rdf:RDF>

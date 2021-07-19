@@ -1,1 +1,1 @@
-var url = "";
+var url = "news.rof";
